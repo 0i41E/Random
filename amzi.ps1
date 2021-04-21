@@ -1,6 +1,6 @@
 #Execute your .ps1 shell via IEX, bypass AMSI & Windows Defender.
 #Tested on updated W10 systems and was used to finish THM's Network "Wreath"
-
+#Author: 0iphor13
 
 Start-Sleep -s 3
 
