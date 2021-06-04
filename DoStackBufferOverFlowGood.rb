@@ -1,5 +1,6 @@
 ######Metasploit module for DoStackBufferOverflowGood.exe####
 ######perfect for practice BoF or to use as a template for creatin' your own####
+######DoStackBufferOverFlowGood.exe -> https://github.com/justinsteven/dostackbufferoverflowgood####
 
 
 require 'msf/core'  
