@@ -3,6 +3,7 @@ Random scripts and exploits I used, modified or wrote.
 
 Please feel free to contact me.
 
+* 26.08.2021 - Uploaded "Gatekeeper.rb" - Msf Module for TryHackMes Gatekeeper room
 * 23.08.2021 - Uploaded "AMSIbypassOneliner.txt" - Different one liners for bypassing AMSI - simply copy & paste
 * 04.06.2021 - Uploaded MSF module for DoStackBufferOverFlowGood.exe
 * 11.05.2021 - Uploaded Invoke-PowerRevShell.ps1 (Powershell reverse shell - one liner)
