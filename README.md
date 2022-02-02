@@ -7,5 +7,4 @@ Please feel free to contact me.
 * 26.08.2021 - Uploaded "Gatekeeper.rb" - Msf Module for TryHackMes Gatekeeper room
 * 23.08.2021 - Uploaded "AMSIbypassOneliner.txt" - Different one liners for bypassing AMSI - simply copy & paste
 * 04.06.2021 - Uploaded MSF module for DoStackBufferOverFlowGood.exe
-* 22.04.2021 - Uploaded amzhell.cs (Reverse shell with the usage of amzi.ps1)
 * 21.04.2021 - Uploaded amzi.ps1 (bypass AMSI and Windows Defender to use IEX)
