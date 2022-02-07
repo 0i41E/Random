@@ -1,5 +1,5 @@
-# Scripts-and-Exploits
-Random scripts and exploits I used, modified or wrote.
+# RaNDoMe Stuff
+Random scripts I used, modified or wrote.
 
 Please feel free to contact me.
 
