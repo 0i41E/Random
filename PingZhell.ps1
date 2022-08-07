@@ -1,7 +1,7 @@
 
 <#
 
-Original script by nishang - modified by 0iphor13 for PingZhell
+Original script by Nikhil Mittal - modified by 0iphor13 for PingZhell
 
 Use icmpsh_m.py or icmpsh-m.pl from https://github.com/bdamele/icmpsh to catch the shell.
 
