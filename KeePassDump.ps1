@@ -22,7 +22,7 @@ Dump the credentials to a custom export path
 KeePassDump C:\Users\User\AppData\Roaming\KeePass\KeePass.config.xml -ExportPath C:\Temp
 
 .LINK
-https://github.com/0iphor13
+https://github.com/0i41E
 https://github.com/EmpireProject/Empire/blob/master/data/module_source/collection/vaults/KeePassConfig.ps1
 
 #Based on the script "KeePassConfig.ps1" from the EmpireProject
